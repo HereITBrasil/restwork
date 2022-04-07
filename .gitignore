@@ -1,0 +1,7 @@
+node_modules/
+*.log
+coverage.html
+*.floo
+*.flooignore
+cov/*
+.idea/
